@@ -1,0 +1,17 @@
+ls -ld /etc/services
+mkdir FileTypes
+ls -ld FileTypes/
+ ls -ld /dev/sda
+ls -ld /dev/log
+cat /proc/version
+ls -l /proc/version
+cat /proc/cpuinfo
+cat /proc/devices
+cat /proc/sys/kernel/ostype
+cat /proc/sys/kernel/osrelease
+cat /proc/sys/kernel/version
+cat /proc/sys/kernel/hostname
+cat  /proc/sys/kernel/domainname
+cat /proc/sys/dev/cdrom/info
+cat /proc/mounts
+cat /proc/uptime
